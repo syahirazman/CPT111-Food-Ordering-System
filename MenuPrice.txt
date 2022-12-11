@@ -1,0 +1,4 @@
+Nasi Lemak	2
+Nasi Goreng	3.8
+Mi Goreng	3.5
+Laksa Johor	8
